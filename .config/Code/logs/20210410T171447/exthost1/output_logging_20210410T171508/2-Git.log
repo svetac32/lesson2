@@ -1,0 +1,116 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vcheremnykh
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :lesson2/docker-compose.yml
+> git ls-files --stage -- /home/vcheremnykh/lesson2/docker-compose.yml
+> git show --textconv :lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/dockerfile
+> git show --textconv :lesson2/lesson2.html
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2.html
+> git cat-file -s 65e9cb2c60ae9365775e3d850886944029e76aff
+> git cat-file -s 604e993e3f5ab4dbfa7aaa0d4eb609c4a9203ae8
+> git show --textconv :lesson2/docker-compose.yml
+> git ls-files --stage -- /home/vcheremnykh/lesson2/docker-compose.yml
+> git show --textconv :lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/dockerfile
+> git cat-file -s 65e9cb2c60ae9365775e3d850886944029e76aff
+> git show --textconv :lesson2/docker-compose.yml
+> git ls-files --stage -- /home/vcheremnykh/lesson2/docker-compose.yml
+> git show --textconv :lesson2/config.ru
+> git ls-files --stage -- /home/vcheremnykh/lesson2/config.ru
+> git show --textconv :lesson2/docker-compose.yml
+> git ls-files --stage -- /home/vcheremnykh/lesson2/docker-compose.yml
+> git show --textconv :lesson2/config.ru
+> git ls-files --stage -- /home/vcheremnykh/lesson2/config.ru
+> git show --textconv :lesson2/docker-compose.yml
+> git ls-files --stage -- /home/vcheremnykh/lesson2/docker-compose.yml
+> git show --textconv :lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/dockerfile
+> git cat-file -s 65e9cb2c60ae9365775e3d850886944029e76aff
+> git show --textconv :lesson2/lesson2.html
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2.html
+> git cat-file -s 604e993e3f5ab4dbfa7aaa0d4eb609c4a9203ae8
+> git show --textconv :lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/dockerfile
+> git cat-file -s 65e9cb2c60ae9365775e3d850886944029e76aff
+> git show --textconv :lesson2/docker-compose.yml
+> git ls-files --stage -- /home/vcheremnykh/lesson2/docker-compose.yml
+> git show --textconv :lesson2/lesson2.html
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2.html
+> git cat-file -s 604e993e3f5ab4dbfa7aaa0d4eb609c4a9203ae8
+> git show --textconv :lesson2/docker-compose.yml
+> git ls-files --stage -- /home/vcheremnykh/lesson2/docker-compose.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :lesson2/lesson2.html
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2.html
+> git cat-file -s 604e993e3f5ab4dbfa7aaa0d4eb609c4a9203ae8
+> git show --textconv :lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/dockerfile
+> git cat-file -s 65e9cb2c60ae9365775e3d850886944029e76aff

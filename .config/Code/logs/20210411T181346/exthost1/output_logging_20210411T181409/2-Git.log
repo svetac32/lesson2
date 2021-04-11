@@ -1,0 +1,216 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vcheremnykh
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :lesson2/jenkinsfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :lesson2/config.ru
+> git ls-files --stage -- /home/vcheremnykh/lesson2/config.ru
+> git show --textconv :lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/dockerfile
+> git cat-file -s 65e9cb2c60ae9365775e3d850886944029e76aff
+> git show --textconv :lesson2/lesson2.html
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2.html
+> git cat-file -s 604e993e3f5ab4dbfa7aaa0d4eb609c4a9203ae8
+> git show --textconv :lesson2/config.ru
+> git ls-files --stage -- /home/vcheremnykh/lesson2/config.ru
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :lesson2/config.ru
+> git ls-files --stage -- /home/vcheremnykh/lesson2/config.ru
+> git show --textconv :lesson2/jenkinsfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git status -z -u
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git symbolic-ref --short HEAD
+> git show --textconv :lesson2/jenkinsfile
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git config --get commit.template
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git show --textconv :lesson2/jenkinsfile
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git symbolic-ref --short HEAD
+> git show --textconv :lesson2/jenkinsfile
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lesson2/lesson2/lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2/lesson2/dockerfile
+> git show --textconv :lesson2/lesson2/lesson2/lesson2.html
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2/lesson2/lesson2.html
+> git show --textconv :lesson2/lesson2/lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2/lesson2/dockerfile
+> git show --textconv :lesson2/config.ru
+> git ls-files --stage -- /home/vcheremnykh/lesson2/config.ru
+> git cat-file -s 73fbc848c90fd72ed76b2fbf81852124c9e0fc75
+> git show --textconv :lesson2/docker-compose.yml
+> git ls-files --stage -- /home/vcheremnykh/lesson2/docker-compose.yml
+> git cat-file -s 4b2a3b26b27f5c5cd033bf4fd444377e6686b564
+> git show --textconv :lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/dockerfile
+> git cat-file -s 65e9cb2c60ae9365775e3d850886944029e76aff
+> git show --textconv :lesson2/lesson2/lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2/lesson2/dockerfile
+> git show --textconv :lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/dockerfile
+> git cat-file -s 65e9cb2c60ae9365775e3d850886944029e76aff
+> git show --textconv :lesson2/lesson2/lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2/lesson2/dockerfile
+> git show --textconv :lesson2/jenkinsfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :lesson2/jenkinsfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :lesson2/jenkinsfile
+> git show --textconv :lesson2/lesson2/lesson2/dockerfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2/lesson2/dockerfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2/lesson2/dockerfile
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git show --textconv :lesson2/lesson2/lesson2/dockerfile
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/vcheremnykh/lesson2/lesson2/lesson2/dockerfile
+> git symbolic-ref --short HEAD
+> git show --textconv :lesson2/lesson2/lesson2/dockerfile
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :lesson2/jenkinsfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/jenkinsfile
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :lesson2/Jenkinsfile
+> git ls-files --stage -- /home/vcheremnykh/lesson2/Jenkinsfile
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/vcheremnykh/lesson2/Jenkinsfile
+> git symbolic-ref --short HEAD
+> git show --textconv :lesson2/Jenkinsfile
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/vcheremnykh/lesson2/Jenkinsfile
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git show --textconv :lesson2/Jenkinsfile
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git ls-files --stage -- /home/vcheremnykh/lesson2/Jenkinsfile
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :lesson2/Jenkinsfile
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/vcheremnykh/lesson2/Jenkinsfile
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git show --textconv :lesson2/Jenkinsfile
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vcheremnykh/lesson2/Jenkinsfile
+> git show --textconv :lesson2/Jenkinsfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/vcheremnykh/lesson2/Jenkinsfile
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git show --textconv :lesson2/Jenkinsfile
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/vcheremnykh/lesson2/Jenkinsfile
+> git cat-file -s 9f5916a30a700fbc5d47eb19091f5603aeb8c616
+> git show --textconv :lesson2/Jenkinsfile
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

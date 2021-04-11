@@ -1,0 +1,9 @@
+[2021-04-10 17:15:01.564] [exthost] [info] extension host started
+[2021-04-10 17:15:01.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-10 17:15:01.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/61/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-10 17:15:02.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-10 17:15:02.473] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/61/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-10 17:15:02.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-10 17:15:02.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/61/usr/share/code/resources/app/extensions/git/dist/main
+[2021-04-10 17:15:04.041] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-10 17:15:05.042] [exthost] [info] exiting with code 0
